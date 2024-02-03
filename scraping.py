@@ -70,6 +70,8 @@ for header, group in grouped_dfs.items():
     concatenated_df = pd.concat(group, ignore_index=True)
     concatenated_dfs.append(concatenated_df)
 
+
+
 dataframes = concatenated_dfs
 
 # Now you have a list of DataFrames in 'dataframes'
@@ -87,7 +89,7 @@ def dataframe_to_csv(number, dataframes_folder="tables"):
     if not os.path.exists(dataframes_folder):
         os.makedirs(dataframes_folder)
 
-    dataframes[number].to_csv(os.path.join(dataframes_folder, f"table{number:02d}.csv"), index=False)
+    dataframes[number].to_csv(os.path.join(dataframes_folder, f"table{number:02d} {dataframes[number].columns[0]}.csv"), index=False)
 
 for i in range(len(dataframes)):
     dataframe_to_csv(i)
