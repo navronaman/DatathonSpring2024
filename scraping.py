@@ -41,12 +41,6 @@ def print_dataframe(number):
 def save_dataframe(number):
     dataframes[number].to_csv(f"table{number:02d}.csv", index=False)
         
-# concanate all dataframes
-df = pd.concat(dataframes)
-print(df.head())
-print(df.describe())
-df.to_csv('Dunkin.csv', index=False)
-
 # function to find the first nonempty header
 def first_nonempty_header(df):
     for header in df.columns:
@@ -71,15 +65,34 @@ for header, group in grouped_dfs.items():
     concatenated_dfs.append(concatenated_df)
 
 
+tmp_dataframes = []
 
-dataframes = concatenated_dfs
+for ind, df in enumerate(concatenated_dfs):
+    if df.empty:
+        print(f"Warning: DataFrame in {index+1} is empty. Skipping.")
+        continue
+
+    first_column_name = df.columns[0]
+
+    if first_column_name is None:
+        print(f"Warning: First column name is None in {index+1}. Skipping.")
+        continue
+
+    tmpdf = df.copy()
+    tmpdf.rename(columns={first_column_name: 'Item Name'}, inplace=True)
+    tmpdf['Item Category'] = first_column_name
+    tmpdf = tmpdf[['Item Category'] + [col for col in tmpdf.columns if col != 'Item Category']]
+    tmp_dataframes.append(tmpdf)
+    
+dataframes = tmp_dataframes
+    
+print(tmp_dataframes[9])
 
 # Now you have a list of DataFrames in 'dataframes'
 # You can process them further or concatenate them into a single DataFrame
 # For example, to concatenate them into one DataFrame:
 all_tables_df = pd.concat(dataframes, ignore_index=True)
 all_tables_df.to_csv("Dunkin.csv", index=False)
-
 
 def print_dataframe(number):
     print(dataframes[number])
@@ -91,13 +104,15 @@ def dataframe_to_csv(number, dataframes_folder="tables"):
 
     dataframes[number].to_csv(os.path.join(dataframes_folder, f"table{number:02d} {dataframes[number].columns[0]}.csv"), index=False)
 
-for i in range(len(dataframes)):
-    dataframe_to_csv(i)
-
-
+# for i in range(len(dataframes)):
+#     dataframe_to_csv(i)
 
 
 if __name__ == "__main__":
     
+    print(type(dataframes[7]))
+    
     print_dataframe(10)
-    save_dataframe(10)
+    
+    dataframes[7]["Item Category"] = "Beverages"
+    print(dataframes[7])
