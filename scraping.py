@@ -32,15 +32,7 @@ with pdfplumber.open(pdf_path) as pdf:
             print(f"Error on page {i+1}: {e}")
             continue
         
-
-# Functions on dataframes
-
-def print_dataframe(number):
-    print(dataframes[number].head())
-    
-def save_dataframe(number):
-    dataframes[number].to_csv(f"table{number:02d}.csv", index=False)
-        
+# Grouping and concatenating DataFrames        
 # function to find the first nonempty header
 def first_nonempty_header(df):
     for header in df.columns:
@@ -86,8 +78,6 @@ for ind, df in enumerate(concatenated_dfs):
     
 dataframes = tmp_dataframes
     
-print(tmp_dataframes[9])
-
 # Now you have a list of DataFrames in 'dataframes'
 # You can process them further or concatenate them into a single DataFrame
 # For example, to concatenate them into one DataFrame:
@@ -104,8 +94,27 @@ def dataframe_to_csv(number, dataframes_folder="tables"):
 
     dataframes[number].to_csv(os.path.join(dataframes_folder, f"table{number:02d} {dataframes[number].columns[0]}.csv"), index=False)
 
-# for i in range(len(dataframes)):
-#     dataframe_to_csv(i)
+for i in range(len(dataframes)):
+    dataframe_to_csv(i)
+
+# Now you have a csv file for each DataFrame in the 'tables' folder
+
+# Let's create a mega csv file with both starbucks and dunkin data
+
+tmpdfDunkin = all_tables_df.copy()
+tmpdfDunkin["Store"] = "Dunkin"
+tmpdfDunkin = tmpdfDunkin[['Store'] + [col for col in tmpdfDunkin.columns if col != 'Store']]
+
+tmpdfStarbucks = pd.read_csv("StarbucksDatathonFile.csv")
+tmpdfStarbucks["Store"] = "Starbucks"
+tmpdfStarbucks.rename(columns={'Beverage_category': 'Item Category'}, inplace=True)
+tmpdfStarbucks.rename(columns={'Beverage': 'Item Name'}, inplace=True)
+tmpdfStarbucks = tmpdfStarbucks[['Store'] + [col for col in tmpdfStarbucks.columns if col != 'Store']]
+
+mega_df = pd.concat([tmpdfDunkin, tmpdfStarbucks], ignore_index=True)
+
+
+mega_df.to_csv("Integrated.csv", index=False)
 
 
 if __name__ == "__main__":

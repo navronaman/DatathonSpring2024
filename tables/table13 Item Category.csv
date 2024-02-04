@@ -1,0 +1,49 @@
+Item Category,Item Name,Serving Size,Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Total Carb (g),Dietary Fiber (g),Total Sugars (g),Added Sugars (g),Protein (g),Vitamin D (mcg),Potassium (mg),Calcium (mg),Iron (mg)
+Iced Cappuccino,Pink Velvet Swirl Iced Cappuccino with Skim Milk - Large,Large,300,0,0,0,5,200,61,0,59,42,12,3,708,443,0
+Iced Cappuccino,Pink Velvet Swirl Iced Cappuccino with Skim Milk - Medium,Medium,230,0,0,0,5,150,46,0,44,31,9,2,526,332,0
+Iced Cappuccino,Pink Velvet Swirl Iced Cappuccino with Skim Milk - Small,Small,150,0,0,0,5,100,30,0,30,21,6,1,354,222,0
+Iced Cappuccino,Pink Velvet Swirl Iced Cappuccino with Whole Milk - Large,Large,370,8,4.5,0,25,210,60,0,59,42,11,3,648,420,0
+Iced Cappuccino,Pink Velvet Swirl Iced Cappuccino with Whole Milk - Medium,Medium,280,6,3.5,0,20,150,45,0,44,31,8,2,482,314,0
+Iced Cappuccino,Pink Velvet Swirl Iced Cappuccino with Whole Milk - Small,Small,190,4,2.5,0,15,105,30,0,29,21,6,2,324,210,0
+Iced Cappuccino,Toasted White Chocolate Swirl Iced Cappuccino with Skim Milk - Large,Large,300,0,0,0,5,200,62,0,60,42,11,3,679,441,0
+Iced Cappuccino,Toasted White Chocolate Swirl Iced Cappuccino with Skim Milk - Medium,Medium,230,0,0,0,5,150,47,0,45,32,8,2,505,330,0
+Iced Cappuccino,Toasted White Chocolate Swirl Iced Cappuccino with Skim Milk - Small,Small,150,0,0,0,5,100,31,0,30,21,5,1,340,221,0
+Iced Cappuccino,Toasted White Chocolate Swirl Iced Cappuccino with Whole Milk - Large,Large,370,8,4.5,0,25,200,62,0,59,42,10,3,619,418,0
+Iced Cappuccino,Toasted White Chocolate Swirl Iced Cappuccino with Whole Milk - Medium,Medium,280,6,3.5,0,20,150,46,0,44,32,8,2,460,313,0
+Iced Cappuccino,Toasted White Chocolate Swirl Iced Cappuccino with Whole Milk - Small,Small,190,4,2.5,0,15,100,31,0,30,21,5,2,310,209,0
+Iced Cappuccino,Butter Pecan Swirl Iced Cappuccino with Skim Milk - Large,Large,310,0,0,0,5,390,64,0,60,42,11,3,658,446,0
+Iced Cappuccino,Butter Pecan Swirl Iced Cappuccino with Skim Milk - Medium,Medium,230,0,0,0,5,290,48,0,45,31,9,2,489,334,0
+Iced Cappuccino,Butter Pecan Swirl Iced Cappuccino with Skim Milk - Small,Small,150,0,0,0,5,190,32,0,30,21,6,1,329,223,0
+Iced Cappuccino,Butter Pecan Swirl Iced Cappuccino with Whole Milk - Large,Large,370,8,4.5,0,25,390,63,0,60,42,11,3,598,423,0
+Iced Cappuccino,Butter Pecan Swirl Iced Cappuccino with Whole Milk - Medium,Medium,280,6,3.5,0,20,290,47,0,45,31,8,2,444,317,0
+Iced Cappuccino,Butter Pecan Swirl Iced Cappuccino with Whole Milk - Small,Small,190,4,2.5,0,15,190,32,0,30,21,5,2,299,212,0
+Iced Cappuccino,Caramel Swirl Iced Cappuccino with Skim Milk - Large,Large,310,0,0,0,10,200,65,0,63,46,11,3,826,419,0
+Iced Cappuccino,Caramel Swirl Iced Cappuccino with Skim Milk - Medium,Medium,230,0,0,0,5,150,49,0,47,35,8,2,615,314,0
+Iced Cappuccino,Caramel Swirl Iced Cappuccino with Skim Milk - Small,Small,160,0,0,0,5,100,33,0,32,23,6,1,413,210,0
+Iced Cappuccino,Caramel Swirl Iced Cappuccino with Whole Milk - Large,Large,380,8,4.5,0,30,200,65,0,63,46,11,3,766,396,0
+Iced Cappuccino,Caramel Swirl Iced Cappuccino with Whole Milk - Medium,Medium,280,6,3.5,0,20,150,48,0,47,35,8,2,570,296,0
+Iced Cappuccino,Caramel Swirl Iced Cappuccino with Whole Milk - Small,Small,190,4,2.5,0,15,100,32,0,31,23,5,2,383,198,0
+Iced Cappuccino,French Vanilla Swirl Iced Cappuccino with Skim Milk - Large,Large,310,0,0,0,10,190,65,0,61,42,11,3,789,400,0
+Iced Cappuccino,French Vanilla Swirl Iced Cappuccino with Skim Milk - Medium,Medium,230,0,0,0,5,140,48,0,46,31,8,2,587,299,0
+Iced Cappuccino,French Vanilla Swirl Iced Cappuccino with Skim Milk - Small,Small,150,0,0,0,5,95,32,0,30,21,5,1,395,200,0
+Iced Cappuccino,French Vanilla Swirl Iced Cappuccino with Whole Milk - Large,Large,370,8,4.5,0,30,190,64,0,60,42,10,3,730,377,0
+Iced Cappuccino,French Vanilla Swirl Iced Cappuccino with Whole Milk - Medium,Medium,280,6,3.5,0,20,140,48,0,45,31,8,2,542,282,0
+Iced Cappuccino,French Vanilla Swirl Iced Cappuccino with Whole Milk - Small,Small,190,4,2.5,0,15,95,32,0,30,21,5,2,365,189,0
+Iced Cappuccino,Iced Cappuccino with Skim Milk - Large,Large,90,0,0,0,5,130,13,0,12,0,8,3,479,316,0
+Iced Cappuccino,Iced Cappuccino with Skim Milk - Medium,Medium,70,0,0,0,5,95,10,0,9,0,6,2,354,236,0
+Iced Cappuccino,Iced Cappuccino with Skim Milk - Small,Small,45,0,0,0,0,65,7,0,6,0,4,1,240,158,0
+Iced Cappuccino,Iced Cappuccino with Skim Milk and Sugar - Large,Large,230,0,0,0,5,130,48,0,47,35,8,3,480,316,0
+Iced Cappuccino,Iced Cappuccino with Skim Milk and Sugar - Medium,Medium,170,0,0,0,5,95,36,0,35,26,6,2,355,236,0
+Iced Cappuccino,Iced Cappuccino with Skim Milk and Sugar - Small,Small,110,0,0,0,0,65,24,0,23,17,4,1,240,158,0
+Iced Cappuccino,Iced Cappuccino with Whole Milk - Large,Large,160,8,4.5,0,25,130,13,0,12,0,8,3,419,293,0
+Iced Cappuccino,Iced Cappuccino with Whole Milk - Medium,Medium,120,6,3.5,0,20,100,10,0,9,0,6,2,310,219,0
+Iced Cappuccino,Iced Cappuccino with Whole Milk - Small,Small,80,4,2.5,0,10,65,7,0,6,0,4,2,210,147,0
+Iced Cappuccino,Iced Cappuccino with Whole Milk and Sugar - Large,Large,290,8,4.5,0,25,130,48,0,46,35,8,3,420,293,0
+Iced Cappuccino,Iced Cappuccino with Whole Milk and Sugar - Medium,Medium,220,6,3.5,0,20,100,36,0,35,26,6,2,310,219,0
+Iced Cappuccino,Iced Cappuccino with Whole Milk and Sugar - Small,Small,150,4,2.5,0,10,65,24,0,23,17,4,2,210,147,0
+Iced Cappuccino,Mocha Swirl Iced Cappuccino with Skim Milk - Large,Large,300,1,0.5,0,5,160,64,2,58,46,10,3,830,327,2
+Iced Cappuccino,Mocha Swirl Iced Cappuccino with Skim Milk - Medium,Medium,220,1,0.5,0,5,115,48,2,43,34,7,2,618,244,1
+Iced Cappuccino,Mocha Swirl Iced Cappuccino with Skim Milk - Small,Small,150,0.5,0,0,0,80,32,1,29,23,5,1,415,164,1
+Iced Cappuccino,Mocha Swirl Iced Cappuccino with Whole Milk - Large,Large,360,9,5,0,25,160,63,2,57,46,9,3,770,304,2
+Iced Cappuccino,Mocha Swirl Iced Cappuccino with Whole Milk - Medium,Medium,270,7,4,0,20,120,48,2,43,34,7,2,573,227,1
+Iced Cappuccino,Mocha Swirl Iced Cappuccino with Whole Milk - Small,Small,180,4.5,2.5,0,10,80,32,1,29,23,5,2,385,152,1

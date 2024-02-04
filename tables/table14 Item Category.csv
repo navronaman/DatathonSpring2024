@@ -1,0 +1,85 @@
+Item Category,Item Name,Serving Size,Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Total Carb (g),Dietary Fiber (g),Total Sugars (g),Added Sugars (g),Protein (g),Vitamin D (mcg),Potassium (mg),Calcium (mg),Iron (mg)
+Iced Coffee,Hazelnut Chai Iced Coffee - Large,Large,200,2.5,1,0,5,80,39,2,34,31,3,1,332,104,0
+Iced Coffee,Hazelnut Chai Iced Coffee - Medium,Medium,150,1.5,1,0,5,60,30,1,26,23,2,1,249,77,0
+Iced Coffee,Hazelnut Chai Iced Coffee - Small,Small,100,1,0.5,0,5,40,20,1,17,15,1,0,166,52,0
+Iced Coffee,Pink Velvet Swirl Iced Coffee with Black - Large,Large,220,0,0,0,0,95,47,0,47,42,4,0,477,147,0
+Iced Coffee,Pink Velvet Swirl Iced Coffee with Black - Medium,Medium,160,0,0,0,0,70,36,0,35,31,3,0,371,110,0
+Iced Coffee,Pink Velvet Swirl Iced Coffee with Black - Small,Small,110,0,0,0,0,45,24,0,23,21,2,0,252,74,0
+Iced Coffee,Pink Velvet Swirl Iced Coffee with Cream - Large,Large,330,12,6,0,40,135,49,0,49,42,6,1,532,201,0
+Iced Coffee,Pink Velvet Swirl Iced Coffee with Cream - Medium,Medium,250,9,4.5,0,30,100,37,0,36,31,4,0,412,150,0
+Iced Coffee,Pink Velvet Swirl Iced Coffee with Cream - Small,Small,170,6,3,0,20,70,25,0,24,21,3,0,279,101,0
+Iced Coffee,Toasted White Chocolate Swirl Iced Coffee with Black - Large,Large,220,0,0,0,0,90,49,0,48,42,3,0,448,145,0
+Iced Coffee,Toasted White Chocolate Swirl Iced Coffee with Black - Medium,Medium,160,0,0,0,0,65,37,0,36,32,2,0,336,108,0
+Iced Coffee,Toasted White Chocolate Swirl Iced Coffee with Black - Small,Small,110,0,0,0,0,45,24,0,24,21,2,0,224,73,0
+Iced Coffee,Toasted White Chocolate Swirl Iced Coffee with Cream - Large,Large,330,12,6,0,40,130,51,0,49,42,5,1,503,199,0
+Iced Coffee,Toasted White Chocolate Swirl Iced Coffee with Cream - Medium,Medium,250,9,4.5,0,30,95,38,0,37,32,4,0,377,148,0
+Iced Coffee,Toasted White Chocolate Swirl Iced Coffee with Cream - Small,Small,170,6,3,0,20,65,25,0,25,21,2,0,251,99,0
+Iced Coffee,White Chocolate Raspberry Iced Coffee - Large,Large,340,12,6,0,40,130,53,0,49,42,5,1,503,199,0
+Iced Coffee,White Chocolate Raspberry Iced Coffee - Medium,Medium,260,9,4.5,0,30,95,40,0,37,32,4,0,377,148,0
+Iced Coffee,White Chocolate Raspberry Iced Coffee - Small,Small,170,6,3,0,20,65,26,0,25,21,2,0,251,99,0
+Iced Coffee,White Hazelnut Bark Iced Coffee - Large,Large,340,12,6,0,40,130,53,0,49,42,5,1,503,199,0
+Iced Coffee,White Hazelnut Bark Iced Coffee - Medium,Medium,260,9,4.5,0,30,95,40,0,37,32,4,0,377,148,0
+Iced Coffee,White Hazelnut Bark Iced Coffee - Small,Small,170,6,3,0,20,65,26,0,25,21,2,0,251,99,0
+Iced Coffee,Butter Pecan Swirl Iced Coffee with Black - Large,Large,220,0,0,0,0,280,50,0,48,42,4,0,427,150,0
+Iced Coffee,Butter Pecan Swirl Iced Coffee with Black - Medium,Medium,170,0,0,0,0,210,38,0,36,31,3,0,333,112,0
+Iced Coffee,Butter Pecan Swirl Iced Coffee with Black - Small,Small,110,0,0,0,0,140,25,0,24,21,2,0,227,76,0
+Iced Coffee,Butter Pecan Swirl Iced Coffee with Cream - Large,Large,340,12,6,0,35,320,52,0,50,42,5,1,482,204,0
+Iced Coffee,Butter Pecan Swirl Iced Coffee with Cream - Medium,Medium,250,9,4.5,0,30,240,39,0,37,31,4,0,374,153,0
+Iced Coffee,Butter Pecan Swirl Iced Coffee with Cream - Small,Small,170,6,3,0,20,160,26,0,25,21,3,0,254,103,0
+Iced Coffee,Caramel Swirl Iced Coffee - Large,Large,230,0,0,0,5,85,52,0,51,46,3,0,594,123,0
+Iced Coffee,Caramel Swirl Iced Coffee - Medium,Medium,170,0,0,0,5,65,39,0,38,35,3,0,459,92,0
+Iced Coffee,Caramel Swirl Iced Coffee - Small,Small,110,0,0,0,0,45,26,0,26,23,2,0,311,62,0
+Iced Coffee,Caramel Swirl Iced Coffee with Cream - Large,Large,340,12,6,0,40,130,53,0,53,46,5,1,649,177,0
+Iced Coffee,Caramel Swirl Iced Coffee with Cream - Medium,Medium,260,9,4.5,0,30,95,40,0,40,35,4,0,500,132,0
+Iced Coffee,Caramel Swirl Iced Coffee with Cream - Small,Small,170,6,3,0,20,65,27,0,26,23,3,0,338,89,0
+Iced Coffee,French Vanilla Swirl Iced Coffee - Large,Large,220,0,0,0,5,80,51,0,49,42,3,0,558,104,0
+Iced Coffee,French Vanilla Swirl Iced Coffee - Medium,Medium,170,0,0,0,5,60,38,0,37,31,2,0,432,77,0
+Iced Coffee,French Vanilla Swirl Iced Coffee - Small,Small,110,0,0,0,0,40,26,0,24,21,2,0,293,52,0
+Iced Coffee,French Vanilla Swirl Iced Coffee with Cream - Large,Large,340,12,6,0,40,120,53,0,50,42,5,1,613,157,0
+Iced Coffee,French Vanilla Swirl Iced Coffee with Cream - Medium,Medium,250,9,4.5,0,30,90,40,0,38,31,4,0,473,118,0
+Iced Coffee,French Vanilla Swirl Iced Coffee with Cream - Small,Small,170,6,3,0,20,60,26,0,25,21,2,0,320,79,0
+Iced Coffee,Iced Café Au Lait with Skim Milk - Large,Large,90,0,0,0,5,120,12,0,12,0,9,3,548,315,0
+Iced Coffee,Iced Café Au Lait with Skim Milk - Medium,Medium,60,0,0,0,5,90,9,0,9,0,6,2,411,235,0
+Iced Coffee,Iced Café Au Lait with Skim Milk - Small,Small,45,0,0,0,0,60,6,0,6,0,4,1,274,158,0
+Iced Coffee,Iced Café Au Lait with Whole Milk - Large,Large,150,8,4.5,0,25,120,12,0,12,0,8,3,488,292,0
+Iced Coffee,Iced Café Au Lait with Whole Milk - Medium,Medium,110,6,3.5,0,20,90,9,0,9,0,6,2,366,218,0
+Iced Coffee,Iced Café Au Lait with Whole Milk - Small,Small,80,4,2.5,0,10,60,6,0,6,0,4,2,244,146,0
+Iced Coffee,Iced Coffee - Large,Large,5,0,0,0,0,20,0,0,0,0,1,0,275,21,0
+Iced Coffee,Iced Coffee - Medium,Medium,5,0,0,0,0,15,0,0,0,0,0,0,206,15,0
+Iced Coffee,Iced Coffee - Small,Small,5,0,0,0,0,10,0,0,0,0,0,0,137,11,0
+Iced Coffee,Iced Coffee with AlmondMilk - Large,Large,35,1,0,0,0,75,5,0,5,5,1,1,298,193,0
+Iced Coffee,Iced Coffee with AlmondMilk - Medium,Medium,25,0.5,0,0,0,50,4,0,3,3,1,1,221,130,0
+Iced Coffee,Iced Coffee with AlmondMilk - Small,Small,15,0,0,0,0,30,2,0,2,2,0,0,145,68,0
+Iced Coffee,Iced Coffee with Coconutmilk - Large,Large,20,1.5,1,0,0,35,1,0,0,0,1,1,351,208,0
+Iced Coffee,Iced Coffee with Coconutmilk - Medium,Medium,15,1,1,0,0,25,0,0,0,0,1,1,257,140,0
+Iced Coffee,Iced Coffee with Coconutmilk - Small,Small,10,0.5,0,0,0,15,0,0,0,0,0,0,163,73,0
+Iced Coffee,Iced Coffee with Cream - Large,Large,120,12,6,0,35,65,2,0,2,0,2,1,330,75,0
+Iced Coffee,Iced Coffee with Cream - Medium,Medium,90,9,4.5,0,25,45,1,0,1,0,2,0,247,55,0
+Iced Coffee,Iced Coffee with Cream - Small,Small,60,6,3,0,20,30,1,0,1,0,1,0,165,37,0
+Iced Coffee,Iced Coffee with Cream and Sugar - Large,Large,260,12,6,0,35,65,37,0,36,35,2,1,330,75,0
+Iced Coffee,Iced Coffee with Cream and Sugar - Medium,Medium,190,9,4.5,0,25,45,27,0,27,26,2,0,247,55,0
+Iced Coffee,Iced Coffee with Cream and Sugar - Small,Small,130,6,3,0,20,30,18,0,18,17,1,0,165,38,0
+Iced Coffee,Iced Coffee with Oatmilk - Large,Large,45,1.5,0,0,0,60,8,1,2,1,1,2,380,144,0
+Iced Coffee,Iced Coffee with Oatmilk - Medium,Medium,30,1,0,0,0,40,5,1,1,1,1,1,276,97,0
+Iced Coffee,Iced Coffee with Oatmilk - Small,Small,15,0,0,0,0,25,3,0,1,0,1,1,172,52,0
+Iced Coffee,Iced Coffee with Skim Milk - Large,Large,25,0,0,0,0,45,3,0,3,0,3,1,343,94,0
+Iced Coffee,Iced Coffee with Skim Milk - Medium,Medium,20,0,0,0,0,35,2,0,2,0,2,1,257,70,0
+Iced Coffee,Iced Coffee with Skim Milk - Small,Small,15,0,0,0,0,25,2,0,2,0,1,0,172,47,0
+Iced Coffee,Iced Coffee with Skim Milk and Sugar - Large,Large,160,0,0,0,0,45,38,0,38,35,3,1,344,95,0
+Iced Coffee,Iced Coffee with Skim Milk and Sugar - Medium,Medium,120,0,0,0,0,35,28,0,28,26,2,1,257,70,0
+Iced Coffee,Iced Coffee with Skim Milk and Sugar - Small,Small,80,0,0,0,0,25,19,0,19,17,1,0,172,47,0
+Iced Coffee,Iced Coffee with Sugar - Large,Large,140,0,0,0,0,20,35,0,35,35,1,0,275,21,0
+Iced Coffee,Iced Coffee with Sugar - Medium,Medium,110,0,0,0,0,15,26,0,26,26,0,0,206,15,0
+Iced Coffee,Iced Coffee with Sugar - Small,Small,70,0,0,0,0,10,17,0,17,17,0,0,138,11,0
+Iced Coffee,Iced Coffee with Whole Milk - Large,Large,40,2,1,0,5,45,3,0,3,0,3,1,328,89,0
+Iced Coffee,Iced Coffee with Whole Milk - Medium,Medium,30,1.5,1,0,5,35,2,0,2,0,2,1,246,66,0
+Iced Coffee,Iced Coffee with Whole Milk - Small,Small,20,1,0.5,0,5,25,1,0,1,0,1,0,164,44,0
+Iced Coffee,Iced Coffee with Whole Milk and Sugar - Large,Large,180,2,1,0,5,45,38,0,38,35,3,1,329,89,0
+Iced Coffee,Iced Coffee with Whole Milk and Sugar - Medium,Medium,130,1.5,1,0,5,35,28,0,28,26,2,1,246,66,0
+Iced Coffee,Iced Coffee with Whole Milk and Sugar - Small,Small,90,1,0.5,0,5,25,19,0,19,17,1,0,164,45,0
+Iced Coffee,Mocha Swirl Iced Coffee Large,Large,210,1,0,0,0,50,50,2,46,46,2,0,598,31,2
+Iced Coffee,Mocha Swirl Iced Coffee Medium,Medium,160,0.5,0,0,0,35,38,2,34,34,2,0,462,23,1
+Iced Coffee,Mocha Swirl Iced Coffee Small,Small,110,0,0,0,0,25,25,1,23,23,1,0,313,16,1
+Iced Coffee,Mocha Swirl Iced Coffee with Cream - Large,Large,330,12,7,0,35,90,52,2,47,46,4,1,653,84,2
+Iced Coffee,Mocha Swirl Iced Coffee with Cream - Medium,Medium,240,9,5,0,25,65,39,2,35,34,3,0,503,63,1
+Iced Coffee,Mocha Swirl Iced Coffee with Cream - Small,Small,160,6,3.5,0,20,45,26,1,24,23,2,0,340,43,1

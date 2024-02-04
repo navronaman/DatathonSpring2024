@@ -1,0 +1,64 @@
+Item Category,Item Name,Serving Size,Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Total Carb (g),Dietary Fiber (g),Total Sugars (g),Added Sugars (g),Protein (g),Vitamin D (mcg),Potassium (mg),Calcium (mg),Iron (mg)
+Donuts,Chocolate Frosted with Valentine's Sprinkles Donut,1 Donut,270,12,5,0,0,290,36,1,15,14,4,0,75,13,2
+Donuts,Cupid's Choice Donut,1 Donut,290,11,5,0,0,340,43,1,20,20,4,0,64,13,2
+Donuts,Frosty Red Velvet Donut,1 Donut,420,20,9,0,0,360,58,1,36,36,3,0,83,26,2
+Donuts,Heart Shaped Brownie Batter Donut,1 Donut,330,14,6,0,0,320,48,2,25,24,5,0,117,18,2
+Donuts,Strawberry Frosted with Valentine's Sprinkles Donut,1 Donut,270,12,5,0,0,280,37,1,15,15,4,0,59,12,2
+Donuts,Vanilla Frosted with Valentine's Sprinkles Donut,1 Donut,270,12,5,0,0,280,37,1,15,15,4,0,59,12,2
+Donuts,Apple 'n Spice Donut,1 Donut,230,10,4,0,0,300,31,1,10,10,4,1,67,14,2
+Donuts,Apple Crumb Donut,1 Donut,290,11,4.5,0,0,310,44,1,21,21,5,1,73,12,2
+Donuts,Apple Fritter,1 Fritter,470,28,12,0,0,410,47,2,17,15,6,0,96,25,1
+Donuts,Apple Stick,1 Stick,470,30,15,0,30,440,50,1,24,23,4,0,78,30,2
+Donuts,Bavarian Kreme Donut,1 Donut,240,11,4,0,0,310,31,1,11,11,4,1,59,12,2
+Donuts,Bismark,1 Bismark,480,22,9,0,0,470,63,1,34,34,6,2,87,19,3
+Donuts,Boston Kreme Donut,1 Donut,270,11,4.5,0,0,320,39,1,18,17,5,1,81,33,2
+Donuts,Butternut Donut,1 Donut,430,21,10,0,20,320,57,1,34,33,4,0,79,25,2
+Donuts,Chocolate Butternut Donut,1 Donut,450,24,11,0,0,420,57,1,35,34,4,0,70,26,1
+Donuts,Chocolate Crème Donut,1 Donut,290,14,6,0,0,300,36,1,14,14,5,1,101,14,2
+Donuts,Chocolate Dipped French Cruller,1 Donut,280,15,7,0,50,150,33,0,20,20,3,0,37,13,0
+Donuts,Chocolate Frosted Cake Donut,1 Donut,360,20,9,0,20,340,41,1,21,20,4,0,85,25,2
+Donuts,Chocolate Frosted Donut,1 Donut,260,11,4.5,0,0,290,34,1,13,13,4,0,75,13,2
+Donuts,Chocolate Frosted with Sprinkles Donut,1 Donut,270,12,5,0,0,290,36,1,15,14,4,0,75,13,2
+Donuts,Chocolate Headlight Donut,1 Donut,310,14,6,0,0,310,41,1,19,18,5,0,105,15,2
+Donuts,Chocolate Long John,1 Long John,320,15,6,0,0,400,41,1,16,16,6,2,101,17,3
+Donuts,Cinnamon Donut,1 Donut,330,20,9,0,20,320,34,1,13,13,4,0,66,27,2
+Donuts,Cinnamon Stick,1 Stick,430,30,15,0,30,380,39,1,16,15,4,0,63,29,2
+Donuts,Coconut Donut,1 Donut,410,21,11,0,20,320,50,1,28,27,4,0,89,25,2
+Donuts,Coffee Roll,1 Coffee Roll,390,19,8,0,0,440,48,2,17,16,7,0,92,27,3
+Donuts,Double Chocolate Donut,1 Donut,380,23,11,0,0,430,41,1,22,21,4,0,75,26,1
+Donuts,French Cruller,1 Donut,230,14,7,0,50,135,21,0,10,10,3,0,17,12,0
+Donuts,Frosted Vanilla Crème Donut,1 Donut,330,16,6,0,0,310,44,1,24,24,5,1,81,13,2
+Donuts,Glazed Blueberry Donut,1 Donut,350,18,7,0,30,380,44,1,21,21,4,0,68,20,1
+Donuts,Glazed Chocolate Donut,1 Donut,370,23,10,0,0,420,41,1,21,20,4,0,57,25,1
+Donuts,Glazed Chocolate Stick,1 Stick,410,25,10,0,0,480,42,2,20,19,4,0,126,31,2
+Donuts,Glazed Donut,1 Donut,240,11,4.5,0,0,270,33,1,13,12,4,0,56,12,2
+Donuts,Glazed Jelly Donut,1 Donut,280,10,4,0,0,290,44,1,21,20,4,1,60,12,2
+Donuts,Glazed Jelly Stick,1 Stick,540,30,15,0,30,430,66,1,37,36,4,0,67,29,2
+Donuts,Glazed Stick,1 Stick,470,30,15,0,30,380,48,1,24,23,4,0,64,27,2
+Donuts,Glazed Strawberry Donut,1 Donut,280,10,4,0,0,280,44,1,23,23,4,1,67,12,2
+Donuts,Jelly Donut,1 Donut,250,10,4,0,0,290,36,1,13,13,4,1,58,13,2
+Donuts,Jelly Stick,1 Stick,500,30,15,0,30,420,57,1,29,28,4,0,65,29,2
+Donuts,Lemon Donut,1 Donut,230,10,4,0,0,310,31,1,10,10,4,1,59,12,2
+Donuts,Lemon Stick,1 Stick,480,30,15,0,30,460,50,1,24,23,4,0,67,28,2
+Donuts,Maple Crème Donut,1 Donut,290,14,5,0,0,290,38,1,18,18,4,1,61,12,2
+Donuts,Maple Crème Stick,1 Stick,460,22,9,0,0,440,59,1,34,34,5,2,89,17,2
+Donuts,Maple Frosted Donut,1 Donut,260,11,4.5,0,0,280,35,1,14,14,4,0,59,12,2
+Donuts,Maple Vanilla Crème Donut,1 Donut,330,15,6,0,0,300,45,1,25,25,4,1,65,12,2
+Donuts,Old Fashioned Donut,1 Donut,310,19,9,0,20,320,30,1,10,9,4,0,64,24,2
+Donuts,Peanut Donut,1 Donut,470,27,10,0,20,320,50,2,26,25,8,0,162,33,2
+Donuts,Plain Stick,1 Stick,420,30,15,0,30,380,36,1,13,12,4,0,62,27,2
+Donuts,Powdered Donut,1 Donut,330,20,9,0,20,320,34,1,14,13,4,0,64,24,2
+Donuts,Powdered Stick,1 Stick,440,30,15,0,30,380,42,1,18,17,4,0,62,27,2
+Donuts,Sour Cream Donut,1 Donut,360,17,7,0,10,360,49,1,25,25,4,0,16,15,1
+Donuts,Strawberry Frosted Donut,1 Donut,260,11,4.5,0,0,280,35,1,14,14,4,0,59,12,2
+Donuts,Strawberry Frosted with Sprinkles Donut,1 Donut,270,12,5,0,0,280,37,1,16,15,4,0,59,12,2
+Donuts,Sugared Donut,1 Donut,210,11,4.5,0,0,270,24,1,5,4,4,0,55,12,2
+Donuts,Sugared Stick,1 Stick,430,30,15,0,30,380,39,1,16,15,4,0,62,27,2
+Donuts,Taillight Donut,1 Donut,320,15,6,0,0,310,41,1,21,20,4,0,78,13,2
+Donuts,Toasted Coconut Donut,1 Donut,430,22,11,0,20,360,52,3,29,28,5,1,97,27,2
+Donuts,Vanilla Crème Donut,1 Donut,300,15,6,0,0,290,37,1,18,17,4,1,61,12,2
+Donuts,Vanilla Frosted Donut,1 Donut,260,11,4.5,0,0,280,34,1,14,13,4,0,58,12,2
+Donuts,Vanilla Frosted Sprinkles Donut,1 Donut,270,11,4.5,0,0,280,37,1,16,15,4,0,60,12,2
+Donuts,Vanilla Headlight Donut,1 Donut,310,15,6,0,0,310,41,1,21,20,4,0,78,13,2
+Donuts,Vanilla Long John,1 Long John,320,15,6,0,0,400,42,1,17,16,5,2,81,16,2
+Donuts,Éclair,1 Éclair,360,16,6,0,0,470,50,1,23,22,6,2,108,49,3
